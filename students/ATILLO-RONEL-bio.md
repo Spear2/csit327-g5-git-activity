@@ -2,5 +2,5 @@
 - Year: 3rd Year
 - Section: G5
 - Favorite Language: Java
-- One Git Tip Learned: Use 'git checkout -b [Branch Name]' often to make a shortcut
+- One Git Tip Learned: Use 'git checkout -b [Branch_Name]' often to make a shortcut
 - GitHub: @Spear2
