@@ -1,4 +1,4 @@
 ## Contributors
 
-- _Add your name here in Task C_
-- Revilleza, Frederick (**@juantojuan**)
+* Atillo, Ronel (**@Spear2**)
+* Revilleza, Frederick (**@juantojuan**)
